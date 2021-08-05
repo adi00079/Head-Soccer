@@ -2,8 +2,7 @@
 __Head_Soccer__
 //----------------------------------------------------------------------------
 2. Creators:
-a- Amit Ein-Dor   ID 208625681
-b- Adi Gutman     ID 318166600
+ Adi Gutman     ID 318166600
 //----------------------------------------------------------------------------
 3. General ideas and goals of the project:
 A game which every player need to select his character and play against the other player.
