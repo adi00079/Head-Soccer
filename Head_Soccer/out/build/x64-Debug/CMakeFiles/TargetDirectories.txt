@@ -1,0 +1,12 @@
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/CMakeFiles/Head_soccer.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/include/CMakeFiles/edit_cache.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/include/CMakeFiles/rebuild_cache.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/resources/CMakeFiles/edit_cache.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/resources/CMakeFiles/rebuild_cache.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/external/box2d/src/CMakeFiles/box2d.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/external/box2d/src/CMakeFiles/edit_cache.dir
+C:/Users/97250/OneDrive/Desktop/project2_adi_gutman_amit_ein_dor/Head_Soccer/out/build/x64-Debug/external/box2d/src/CMakeFiles/rebuild_cache.dir
